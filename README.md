@@ -1,6 +1,5 @@
 <body>
-<div>
-<h1>awesome-llm-training</h1>
+<div><h1>awesome-llm-training</h1>
 
 <div id="__target__">
     <h2>Elastic</h2>
