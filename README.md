@@ -1,7 +1,7 @@
 # awesome-llm-training
 
 <body>
-    <div id="classs_elastic">
+    <div class="topic" id="Elastic">
     <h1>Elastic</h1>
     <table>
         <tr>
