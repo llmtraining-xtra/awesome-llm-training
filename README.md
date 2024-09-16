@@ -18,6 +18,14 @@
 </tr>
 <tr>
     <td>
+        Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization [OSDI'22]
+    </td>
+    <td>
+        [<a href="https://www.usenix.org/system/files/osdi22-unger.pdf">Paper</a>]
+    </td>
+</tr>
+<tr>
+    <td>
         Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning [OSDI'22]
     </td>
     <td>
