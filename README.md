@@ -5,7 +5,7 @@
 <h2>Automatic Parallelism Configuration System</h2>
 <table>
 <tr>
-    <th>Paper</th>
+    <th>Content</th>
     <th>Source</th>
 </tr>
 <tr>
@@ -79,11 +79,19 @@
     <td>
         [<a href="https://proceedings.mlsys.org/paper_files/paper/2019/file/b422680f3db0986ddd7f8f126baaf0fa-Paper.pdf">Paper</a>]
     </td>
+<<tr>
+<td>
+    大模型分布式训练并行技术 by 吃果冻不吐果冻皮 (zhihu)  
+</td>
+<td>
+    [<a href="https://zhuanlan.zhihu.com/p/598714869">Posts</a>]
+</td>
 </tr>
+/tr>
 </table>
 
 
-<h2>Elastic</h2>
+<h2>Recommendation System</h2>
 <table>
 <tr>
     <th>Paper</th>
@@ -98,15 +106,8 @@
         [<a href="https://github.com/pkusys/TGS">Code</a>]
     </td>
 </tr>
-<tr>
-    <td>
-        Singularity: Planet-Scale, Preemptive and Elastic Scheduling of AI Workloads [arXiv'22]
-    </td>
-    <td>
-        [<a href="https://arxiv.org/abs/2202.07848">Paper</a>]
-    </td>
-</tr>
 </table>
+
 </div>
 
 </div>
