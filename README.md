@@ -79,7 +79,8 @@
     <td>
         [<a href="https://proceedings.mlsys.org/paper_files/paper/2019/file/b422680f3db0986ddd7f8f126baaf0fa-Paper.pdf">Paper</a>]
     </td>
-<<tr>
+</tr>
+<tr>
 <td>
     大模型分布式训练并行技术 by 吃果冻不吐果冻皮 (zhihu)  
 </td>
