@@ -85,6 +85,7 @@
 </td>
 <td>
     [<a href="https://zhuanlan.zhihu.com/p/598714869">Posts</a>]
+    [<a href="https://github.com/liguodongiot/llm-action">Repo</a>]
 </td>
 </tr>
 /tr>
