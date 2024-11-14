@@ -3,20 +3,57 @@
 
 <div id="__source__">
 
-<h2>I. GPGPU</h2>
+<h2>I. PATOS on GPGPU Program</h2>
 
-<h3>[1] Runtime Profiling</h3>
+In this section, we mainly focus on the following parts:
+
+<ol>
+    <li>
+        <b><font color="red">O</font>ptimize</b>: <u>Compiler</u> optimization on GPU program.
+    </li>
+    <li>
+        <b><font color="red">T</font>est</b>: Automatically testing on GPU program using approach like fuzzing.
+    </li>
+    <li>
+        <b><font color="red">A</font>nalyse</b>: Program analyse on GPU program, both <u>static and dynamic</u> method.
+    </li>
+    <li>
+        <b><font color="red">P</font>rofiling</b>: How to lightweightly yet accurately analyse GPU state during runtime?
+    </li>
+    <li>
+        <b><font color="red">S</font>chedule</b>: How to efficiently orchestrate GPU workload <u>during runtime</u>?
+    </li>
+</ol>
+
+<h3>Profile</h3>
 <table>
-<tr><th>Paper / Post</th><th>Source</th></tr>
+<tr><th>Paper / Posts</th><th>Source</th></tr>
 
 <tr>
 <td>Timemory: Modular Performance Analysis for HPC [HPC'20]</td>
 <td>[<a href="https://link.springer.com/chapter/10.1007/978-3-030-50743-5_22">Paper</a>] [<a href="https://github.com/NERSC/timemory">Repo</a>]</td>
 </tr>
 
+<tr>
+<td>HPCToolkit performance tools: measurement and analysis components</td>
+<td>[<a href="https://gitlab.com/hpctoolkit/hpctoolkit">Repo</a>]</td>
+</tr>
+
 </table>
 
-<h3>[2] Compiling Optimization</h3>
+<h3>Schedule</h3>
+<table>
+<tr><th>Paper / Post</th><th>Source</th></tr>
+<tr><td colspan="2" align="center"><font color="grey">TODO</font></td></tr>
+</table>
+
+<h3>Test</h3>
+<table>
+<tr><th>Paper / Post</th><th>Source</th></tr>
+<tr><td colspan="2" align="center"><font color="grey">TODO</font></td></tr>
+</table>
+
+<h3>Optimize</h3>
 <table>
 <tr><th>Paper / Post</th><th>Source</th></tr>
 
@@ -28,7 +65,13 @@ GPU-Centric Architectures [OSDI'24]</td>
 
 </table>
 
-<h2>II. Distributed ML Training & Inference</h2>
+<h3>Analyse</h3>
+<table>
+<tr><th>Paper / Post</th><th>Source</th></tr>
+<tr><td colspan="2" align="center"><font color="grey">TODO</font></td></tr>
+</table>
+
+<h2>II. Distributed ML Training and Inference</h2>
 
 <h3>Automatic Parallelism Configuration System</h3>
 <table>
