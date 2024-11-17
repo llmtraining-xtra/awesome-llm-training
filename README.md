@@ -25,7 +25,7 @@ In this section, we mainly focus on the following parts:
     </li>
 </ol>
 
-<h3>Profile</h3>
+<h3>↘ Profile</h3>
 <table>
 <tr><th>Paper / Posts</th><th>Source</th></tr>
 
@@ -41,19 +41,19 @@ In this section, we mainly focus on the following parts:
 
 </table>
 
-<h3>Schedule</h3>
+<h3>↘ Schedule</h3>
 <table>
 <tr><th>Paper / Post</th><th>Source</th></tr>
 <tr><td colspan="2" align="center"><font color="grey">TODO</font></td></tr>
 </table>
 
-<h3>Test</h3>
+<h3>↘ Test</h3>
 <table>
 <tr><th>Paper / Post</th><th>Source</th></tr>
 <tr><td colspan="2" align="center"><font color="grey">TODO</font></td></tr>
 </table>
 
-<h3>Optimize</h3>
+<h3>↘ Optimize</h3>
 <table>
 <tr><th>Paper / Post</th><th>Source</th></tr>
 
@@ -65,15 +65,32 @@ GPU-Centric Architectures [OSDI'24]</td>
 
 </table>
 
-<h3>Analyse</h3>
+<h3>↘ Analyse</h3>
 <table>
 <tr><th>Paper / Post</th><th>Source</th></tr>
 <tr><td colspan="2" align="center"><font color="grey">TODO</font></td></tr>
 </table>
 
-<h2>II. Distributed ML Training and Inference</h2>
 
-<h3>Automatic Parallelism Configuration System</h3>
+<h2>II. GPU Workload Understanding</h2>
+
+In this section, we record materials that help to understand the workloads running beyond GPU.
+
+<h3>↘ GPU Kernels</h3>
+<table>
+<tr><th>Paper / Post</th><th>Source</th></tr>
+<tr>
+<td>Colfax, an NVIDIA Elite partner across several competencies, is a thought leader in compute performance optimization and developer enablement. </td>
+<td><a href="https://research.colfax-intl.com/">[Site]</a></td>
+</tr>
+</table>
+
+
+
+
+<h2>III. Distributed ML Training and Inference</h2>
+
+<h3>↘ Automatic Parallelism Configuration System</h3>
 <table>
 <tr><th>Paper / Post</th><th>Source</th></tr>
 
@@ -83,42 +100,42 @@ GPU-Centric Architectures [OSDI'24]</td>
 </tr>
 
 <tr>
-<td>Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization [OSDI'22]</td>
+<td>[OSDI'22] Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization</td>
 <td>[<a href="https://www.usenix.org/system/files/osdi22-unger.pdf">Paper</a>]</td>
 </tr>
 
 <tr>
-<td>Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning [OSDI'22]</td>
+<td>[OSDI'22] Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning</td>
 <td>[<a href="https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf">Paper</a>]</td>
 </tr>
 
 <tr>
-<td>Whale: Efficient Giant Model Training over Heterogeneous GPUs [ATC'22]</td>
+<td>[ATC'22] Whale: Efficient Giant Model Training over Heterogeneous GPUs</td>
 <td>[<a href="https://www.usenix.org/system/files/atc22-jia-xianyan.pdf">Paper</a>]</td>
 </tr>
 
 <tr>
-<td>Piper: Multidimensional Planner for DNN Parallelization [NIPS'21]</td>
+<td>[NIPS'21] Piper: Multidimensional Planner for DNN Parallelization</td>
 <td>[<a href="https://proceedings.neurips.cc/paper/2021/file/d01eeca8b24321cd2fe89dd85b9beb51-Paper.pdf">Paper</a>]</td>
 </tr>
 
 <tr>
-<td>DAPPLE: A Pipelined Data Parallel Approach for Training Large Models [PPoPP'21]</td>
+<td>[PPoPP'21] DAPPLE: A Pipelined Data Parallel Approach for Training Large Models</td>
 <td>[<a href="https://arxiv.org/pdf/2007.01045">Paper</a>]</td>
 </tr>
 
 <tr>
-<td>Supporting Very Large Models using Automatic Dataflow Graph Partitioning [Eurosys'19]</td>
+<td>[Eurosys'19] Supporting Very Large Models using Automatic Dataflow Graph Partitioning</td>
 <td>[<a href="https://dl.acm.org/doi/pdf/10.1145/3302424.3303953">Paper</a>]</td>
 </tr>
 
 <tr>
-<td>PipeDream: generalized pipeline parallelism for DNN training [SOSP'19]</td>
+<td>[SOSP'19] PipeDream: generalized pipeline parallelism for DNN training</td>
 <td>[<a href="https://par.nsf.gov/servlets/purl/10129641">Paper</a>]</td>
 </tr>
 
 <tr>
-<td>Beyond Data and Model Parallelism for Deep Neural Networks [MLSys'19]</td>
+<td>[MLSys'19] Beyond Data and Model Parallelism for Deep Neural Networks</td>
 <td>[<a href="https://proceedings.mlsys.org/paper_files/paper/2019/file/b422680f3db0986ddd7f8f126baaf0fa-Paper.pdf">Paper</a>]</td>
 </tr>
 
@@ -129,7 +146,7 @@ GPU-Centric Architectures [OSDI'24]</td>
 </table>
 
 
-<h3>Case Study: Recommendation System</h3>
+<h3>↘ Case Study: Recommendation System</h3>
 <table>
 <tr>
     <th>Paper / Post</th>
